@@ -1,3 +1,3 @@
 # Sybe3.github.io
 Privacypolicy
-StarFinder app for Google Play release
+StarFinder and Lifeboat Navigation app for Google Play release
