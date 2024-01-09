@@ -1,3 +1,3 @@
 # Sybe3.github.io
 Privacypolicy
-StarFinder and Lifeboat Navigation app for Google Play release
+Pasta Please,StarFinder, Mercator Sailing, Polynesian apps for Google Play release
