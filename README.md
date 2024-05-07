@@ -1,3 +1,3 @@
 # Sybe3.github.io
-Privacypolicy
+Privacypolicies for:
 Pasta Please,StarFinder, Mercator Sailing, Polynesian apps for Google Play release
