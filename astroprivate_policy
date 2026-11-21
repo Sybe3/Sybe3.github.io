@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy for Astro Navigation</title>
+<style>
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 1.5rem 1rem 3rem;
+    color: #1a1a1a;
+    background: #ffffff;
+  }
+  h1 { font-size: 1.7rem; margin-bottom: 0.2rem; }
+  h2 { font-size: 1.2rem; margin-top: 2rem; }
+  .updated { color: #555; margin-top: 0; }
+  .notice {
+    border-left: 4px solid #c0392b;
+    background: #fbeeee;
+    padding: 0.1rem 1rem;
+  }
+  a { color: #0b57d0; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #e8e8e8; background: #121212; }
+    .updated { color: #aaa; }
+    .notice { background: #2a1a1a; border-left-color: #e57373; }
+    a { color: #8ab4f8; }
+  }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy for Astro Navigation</h1>
+<p class="updated">Last updated: 20 November 2026</p>
+
+<p>Astro Navigation is a paid app built by me, Sybe. This policy explains what the app does, and does not do, with your information.</p>
+
+<h2>What I collect</h2>
+<p>Nothing. The app has no accounts, no sign-in, no advertising and no analytics. I do not collect, store, share or sell any personal information. The app does not use your location, contacts, photos, camera or microphone.</p>
+
+<h2>What you type into the app</h2>
+<p>The positions, times and sextant readings you enter are used only to do the calculation on your device. They are not saved, and they are never sent to me or to anyone else.</p>
+
+<h2>Internet</h2>
+<p>The app works on its own. It does not connect to the internet or to any server.</p>
+
+<h2>Log data and crash information</h2>
+<p>I do not collect log or crash data from the app. If you installed the app from Google Play, Google may collect usage and crash information about the app under its own policies.</p>
+
+<h2>Security</h2>
+<p>Because the app stores nothing and sends nothing, there is no personal data held by me that could be lost or leaked. Your own phone's security protects anything on your device.</p>
+
+<h2>Safety notice</h2>
+<div class="notice">
+  <p>Astro Navigation is a navigation aid. It is not a replacement for GPS, a certified sextant and nautical almanac, charts, or proper navigation training.</p>
+  <p>Results are calculated with simplified formulas and standard assumptions (for example, standard atmospheric refraction), so they are approximate and may contain errors. The star data in the app is updated from time to time and becomes slightly less accurate between updates. A wrong value typed in will give a wrong result.</p>
+  <p>Always check your position by other means when you can. In an emergency, contact the coastguard or emergency services if you are able to.</p>
+  <p>You use the app at your own risk. To the extent the law allows, I accept no liability for loss, damage or injury arising from its use.</p>
+</div>
+
+<h2>Children's privacy</h2>
+<p>The app is not directed at children under 13, and I do not knowingly collect personal information from anyone.</p>
+
+<h2>Changes to this policy</h2>
+<p>I may update this policy from time to time. The new version will be posted on this page with a new "Last updated" date, and changes take effect when they are posted.</p>
+
+<h2>Contact</h2>
+<p>If you have questions about this policy, or want to report an error in the app's calculations, contact me at <a href="mailto:sybe.starkenburg@gmail.com">sybe.starkenburg@gmail.com</a>.</p>
+
+</body>
+</html>
